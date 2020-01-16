@@ -1,7 +1,3 @@
-# Code Institute
 
-Welcome chrisoc19,
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+[![Build Status](https://travis-ci.org/chrisoc19/e-commerce.svg?branch=master)](https://travis-ci.org/chrisoc19/e-commerce)
